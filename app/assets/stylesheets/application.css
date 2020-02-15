@@ -138,3 +138,7 @@ label.light {
     max-width: 480px;
   }
 }
+
+.mb10 {
+  margin-bottom: 1em;
+}
